@@ -1,0 +1,1 @@
+This is also about learning basics of JavaScript and pushing the code into github.
