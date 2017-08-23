@@ -7,7 +7,7 @@
  * 3. Display to insert the result in a comment after the selection. (Cmd-L)
  */
 
-var randomNumber = Math.round(Math.random()*10);
+var randomNumber = Math.round(Math.random()*5);
 
 if (randomNumber%3 == 0){
   alert("fizz");
