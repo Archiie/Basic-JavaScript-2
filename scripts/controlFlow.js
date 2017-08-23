@@ -9,10 +9,10 @@
 
 var randomNumber = Math.round(Math.random()*5);
 
-if (randomNumber%3 == 0){
+if (randomNumber%3 === 0){
   console.log(randomNumber);
   alert("fizz");
-}else if(randomNumber%5 == 0){
+}else if(randomNumber%5 === 0){
   console.log(randomNumber);
   alert("buzz");
-}else (console.log(randomNumber));
+}else console.log(randomNumber);
